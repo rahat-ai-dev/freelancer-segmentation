@@ -1,0 +1,23 @@
+# Raw dataset: not committed (respects Kaggle's distribution terms, keeps repo small).
+# Download it yourself per README and place it in data/raw/.
+data/raw/*.csv
+
+# NOTE: data/processed/*.csv and models/*.pkl are intentionally NOT ignored.
+# Streamlit Community Cloud only has this git repo to work with - it can't run
+# train_pipeline.py against a dataset that isn't there. Commit the processed
+# CSV + model files (a few hundred KB) so the deployed app works immediately.
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+# Streamlit
+.streamlit/secrets.toml
