@@ -1,0 +1,5 @@
+cluster,Earnings_USD,Hourly_Rate,Job_Completed,Job_Success_Rate,Client_Rating,Rehire_Rate,Job_Duration_Days,Marketing_Spend,earnings_per_job,marketing_efficiency,client_trust_index,experience_score
+0,7108.75,54.78,144.51,73.27,3.97,43.6,42.59,10.91,114.49,701.28,65.4,2.13
+1,4694.86,51.86,165.74,69.18,3.83,29.77,45.63,255.21,37.99,34.45,58.48,1.97
+2,7226.14,55.15,35.06,77.99,4.06,44.95,41.2,255.34,343.73,49.75,68.07,2.09
+3,4544.29,52.38,169.31,79.73,4.14,58.58,44.96,259.39,34.33,31.05,73.72,1.97
